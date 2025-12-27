@@ -16,7 +16,5 @@ entry.pack()
 text = Text(root)
 text.pack()
 
-checkbutton = Checkbutton(root, text="I agree")
-checkbutton.pack()
 
 root.mainloop()
